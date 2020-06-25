@@ -6,3 +6,5 @@ Bartholomew JoJo „Bart“ Simpson ist eine Hauptfigur der Zeichentrickserie Di
 * faul
 * gelb
 * keine Haare
+
+> I’ve always been more interested

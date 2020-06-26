@@ -9,3 +9,5 @@ Bartholomew JoJo „Bart“ Simpson ist eine Hauptfigur der Zeichentrickserie Di
 * Vater
 
 > This line is part of the same quote.
+
+<img src=https://images.pexels.com/photos/7919/pexels-photo.jpg?auto=compress&cs=tinysrgb&h=130/>

@@ -7,3 +7,5 @@ Bartholomew JoJo „Bart“ Simpson ist eine Hauptfigur der Zeichentrickserie Di
 * gelb
 * keine Haare
 * Vater
+
+> This line is part of the same quote.
